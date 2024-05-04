@@ -1,0 +1,32 @@
+.container{
+    margin: 10rem 10rem;
+    padding: 2rem;
+    border: 0.1rem solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+label{
+    display: inline-block;
+    width: 10rem;
+}
+
+.form-element{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.button{
+    margin-top: 2rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.res-element{
+    text-align: center;
+}
