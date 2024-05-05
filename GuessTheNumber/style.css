@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+.game{
+    margin-top: 10px;
+}
+
+#number{
+    margin-bottom: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+#submit{
+    font-weight: bold;
+    background-color: orange;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    padding: 3px;
+}
